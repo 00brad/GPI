@@ -4,7 +4,7 @@ GPI is a script to find prompt injection vulnerabilities in LLM models.
 
 ## How this works
 This is based on a genetic algorithm.
-We're essentially evolving a series of strings of words for input into LLM model in order to get a desired output.
+A series of strings are evolved for input into LLM model in order to get a desired output.
 
 
 ## Installation
