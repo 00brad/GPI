@@ -1,6 +1,9 @@
 # GPI - Genetic Prompt Injection
 ![alt text](https://github.com/00brad/GPI/blob/main/gpi.PNG?raw=true)
+
 GPI is a script to find prompt injection vulnerabilities in LLM models.
+
+Disclaimer: This script is for educational / research purposes only.
 
 ## How this works
 This is based on a genetic algorithm.
